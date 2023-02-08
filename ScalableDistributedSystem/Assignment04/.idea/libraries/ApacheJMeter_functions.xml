@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="ApacheJMeter_functions">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/Downloads/apache-jmeter-5.5/lib/ext/ApacheJMeter_functions.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
